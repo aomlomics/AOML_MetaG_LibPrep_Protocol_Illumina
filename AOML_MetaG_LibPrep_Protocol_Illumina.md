@@ -91,7 +91,8 @@ External protocol used with minor modifications:
 | ------------- | ------------- | ------------- |
 | 1.0.0 | 2024-09-05 | Initial release |
 | 1.0.1 | 2024-10-23 | Formatting edits |
-| 1.1.0 | 2024-11-16 | Addition of FAIR eDNA terms in YAML frontmatter |
+| 1.1.0 | 2024-11-16 | Addition of FAIR eDNA terms in YAML front matter |
+| 1.1.1 | 2025-12-15 | Updated YAML front matter |
 
 ### Acronyms and Abbreviations
 
